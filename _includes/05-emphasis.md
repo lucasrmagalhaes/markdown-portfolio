@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I like JS.*
+_Java is really nice too._
+
+**Bold is nice.**
+__Bold again!__
+
+_You **can** combine them (bold and italic)_
